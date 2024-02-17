@@ -1,0 +1,26 @@
+.buttons{
+    display: flex;
+}
+.buttons div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 100%;
+    background-color: white;
+    margin: 10px;
+    width: 60px;
+    height: 60px;
+}
+.buttons div img{
+    width: 62px;
+    height: 62px;
+}
+li{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+}
+.completed{
+    text-decoration: line-through;
+}
