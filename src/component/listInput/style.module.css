@@ -33,3 +33,6 @@ form{
     height: 63px;
     transition: all 0.5s;
 }
+ul{
+    padding: 0;
+}
